@@ -2,786 +2,943 @@
   "countries": [
     {
       "code": "AFG",
+      "is_efc": false,
       "name_efc_administrative": "Afghanistan",
       "sort_efc": 1
     },
     {
       "code": "AGO",
+      "is_efc": false,
       "name_efc_administrative": "Angola",
       "sort_efc": 2
     },
     {
       "code": "AIA",
+      "is_efc": false,
       "name_efc_administrative": "Anguilla",
       "sort_efc": 3
     },
     {
       "code": "ALB",
+      "is_efc": false,
       "name_efc_administrative": "Albania",
       "sort_efc": 4
     },
     {
       "code": "ALG",
+      "is_efc": false,
       "name_efc_administrative": "Algeria",
       "sort_efc": 5
     },
     {
       "code": "AND",
+      "is_efc": false,
       "name_efc_administrative": "Andorra",
       "sort_efc": 6
     },
     {
       "code": "ARG",
+      "is_efc": false,
       "name_efc_administrative": "Argentina",
       "sort_efc": 7
     },
     {
       "code": "ARM",
+      "is_efc": true,
       "name_efc_administrative": "Armenia",
       "sort_efc": 8
     },
     {
       "code": "ARU",
+      "is_efc": false,
       "name_efc_administrative": "Aruba",
       "sort_efc": 9
     },
     {
       "code": "ASM",
+      "is_efc": false,
       "name_efc_administrative": "American Samoa",
       "sort_efc": 10
     },
     {
       "code": "ATA",
+      "is_efc": false,
       "name_efc_administrative": "Antarctica",
       "sort_efc": 11
     },
     {
       "code": "ATG",
+      "is_efc": false,
       "name_efc_administrative": "Antigua and Barbuda",
       "sort_efc": 12
     },
     {
       "code": "AUS",
+      "is_efc": false,
       "name_efc_administrative": "Australia",
       "sort_efc": 13
     },
     {
       "code": "AUT",
+      "is_efc": true,
       "name_efc_administrative": "Austria",
       "sort_efc": 14
     },
     {
       "code": "AZE",
+      "is_efc": true,
       "name_efc_administrative": "Azerbaijan",
       "sort_efc": 15
     },
     {
       "code": "BAH",
+      "is_efc": false,
       "name_efc_administrative": "Bahamas",
       "sort_efc": 16
     },
     {
       "code": "BAN",
+      "is_efc": false,
       "name_efc_administrative": "Bangladesh",
       "sort_efc": 17
     },
     {
       "code": "BAR",
+      "is_efc": false,
       "name_efc_administrative": "Barbados",
       "sort_efc": 18
     },
     {
       "code": "BDI",
+      "is_efc": false,
       "name_efc_administrative": "Burundi",
       "sort_efc": 19
     },
     {
       "code": "BEL",
+      "is_efc": true,
       "name_efc_administrative": "Belgium",
       "sort_efc": 20
     },
     {
       "code": "BEN",
+      "is_efc": false,
       "name_efc_administrative": "Benin",
       "sort_efc": 21
     },
     {
       "code": "BER",
+      "is_efc": false,
       "name_efc_administrative": "Bermuda",
       "sort_efc": 22
     },
     {
       "code": "BHU",
+      "is_efc": false,
       "name_efc_administrative": "Bhutan",
       "sort_efc": 23
     },
     {
       "code": "BIH",
+      "is_efc": false,
       "name_efc_administrative": "Bosnia and Herzegovina",
       "sort_efc": 24
     },
     {
       "code": "BIZ",
+      "is_efc": false,
       "name_efc_administrative": "Belize",
       "sort_efc": 25
     },
     {
       "code": "BLR",
+      "is_efc": true,
       "name_efc_administrative": "Belarus",
       "sort_efc": 26
     },
     {
       "code": "BOL",
+      "is_efc": false,
       "name_efc_administrative": "Bolivia",
       "sort_efc": 27
     },
     {
       "code": "BOT",
+      "is_efc": false,
       "name_efc_administrative": "Botswana",
       "sort_efc": 28
     },
     {
       "code": "BRA",
+      "is_efc": false,
       "name_efc_administrative": "Brazil",
       "sort_efc": 29
     },
     {
       "code": "BRN",
+      "is_efc": false,
       "name_efc_administrative": "Bahrain",
       "sort_efc": 30
     },
     {
       "code": "BRU",
+      "is_efc": false,
       "name_efc_administrative": "Brunei Darussalam",
       "sort_efc": 31
     },
     {
       "code": "BUL",
+      "is_efc": true,
       "name_efc_administrative": "Bulgaria",
       "sort_efc": 32
     },
     {
       "code": "BUR",
+      "is_efc": false,
       "name_efc_administrative": "Burkina Faso",
       "sort_efc": 33
     },
     {
       "code": "CAF",
+      "is_efc": false,
       "name_efc_administrative": "Central African Republic",
       "sort_efc": 34
     },
     {
       "code": "CAM",
+      "is_efc": false,
       "name_efc_administrative": "Cambodia",
       "sort_efc": 35
     },
     {
       "code": "CAN",
+      "is_efc": false,
       "name_efc_administrative": "Canada",
       "sort_efc": 36
     },
     {
       "code": "CAY",
+      "is_efc": false,
       "name_efc_administrative": "Cayman Islands",
       "sort_efc": 37
     },
     {
       "code": "CGO",
+      "is_efc": false,
       "name_efc_administrative": "Congo, Republic of (Brazzaville)",
       "sort_efc": 38
     },
     {
       "code": "CHA",
+      "is_efc": false,
       "name_efc_administrative": "Chad",
       "sort_efc": 39
     },
     {
       "code": "CHI",
+      "is_efc": false,
       "name_efc_administrative": "Chile",
       "sort_efc": 40
     },
     {
       "code": "CHN",
+      "is_efc": false,
       "name_efc_administrative": "China",
       "sort_efc": 41
     },
     {
       "code": "CMR",
+      "is_efc": false,
       "name_efc_administrative": "Cameroon",
       "sort_efc": 42
     },
     {
       "code": "COL",
+      "is_efc": false,
       "name_efc_administrative": "Colombia",
       "sort_efc": 43
     },
     {
       "code": "COM",
+      "is_efc": false,
       "name_efc_administrative": "Comoros",
       "sort_efc": 44
     },
     {
       "code": "CPV",
+      "is_efc": false,
       "name_efc_administrative": "Cape Verde",
       "sort_efc": 45
     },
     {
       "code": "CRC",
+      "is_efc": false,
       "name_efc_administrative": "Costa Rica",
       "sort_efc": 46
     },
     {
       "code": "CRO",
+      "is_efc": true,
       "name_efc_administrative": "Croatia",
       "sort_efc": 47
     },
     {
       "code": "CUB",
+      "is_efc": false,
       "name_efc_administrative": "Cuba",
       "sort_efc": 48
     },
     {
       "code": "CYP",
+      "is_efc": true,
       "name_efc_administrative": "Cyprus",
       "sort_efc": 49
     },
     {
       "code": "CZE",
+      "is_efc": true,
       "name_efc_administrative": "Czech Republic",
       "sort_efc": 50
     },
     {
       "code": "DEN",
+      "is_efc": true,
       "name_efc_administrative": "Denmark",
       "sort_efc": 51
     },
     {
       "code": "DJI",
+      "is_efc": false,
       "name_efc_administrative": "Djibouti",
       "sort_efc": 52
     },
     {
       "code": "DMA",
+      "is_efc": false,
       "name_efc_administrative": "Dominica",
       "sort_efc": 53
     },
     {
       "code": "DOM",
+      "is_efc": false,
       "name_efc_administrative": "Dominican Republic",
       "sort_efc": 54
     },
     {
       "code": "ECU",
+      "is_efc": false,
       "name_efc_administrative": "Ecuador",
       "sort_efc": 55
     },
     {
       "code": "EGY",
+      "is_efc": false,
       "name_efc_administrative": "Egypt",
       "sort_efc": 56
     },
     {
       "code": "ERI",
+      "is_efc": false,
       "name_efc_administrative": "Eritrea",
       "sort_efc": 57
     },
     {
       "code": "ESA",
+      "is_efc": false,
       "name_efc_administrative": "El Salvador",
       "sort_efc": 58
     },
     {
       "code": "ESP",
+      "is_efc": true,
       "name_efc_administrative": "Spain",
       "sort_efc": 59
     },
     {
       "code": "EST",
+      "is_efc": true,
       "name_efc_administrative": "Estonia",
       "sort_efc": 60
     },
     {
       "code": "ETH",
+      "is_efc": false,
       "name_efc_administrative": "Ethiopia",
       "sort_efc": 61
     },
     {
       "code": "FIJ",
+      "is_efc": false,
       "name_efc_administrative": "Fiji",
       "sort_efc": 62
     },
     {
       "code": "FIN",
+      "is_efc": true,
       "name_efc_administrative": "Finland",
       "sort_efc": 63
     },
     {
       "code": "FRA",
+      "is_efc": true,
       "name_efc_administrative": "France",
       "sort_efc": 64
     },
     {
       "code": "GAB",
+      "is_efc": false,
       "name_efc_administrative": "Gabon",
       "sort_efc": 65
     },
     {
       "code": "GBR",
+      "is_efc": true,
       "name_efc_administrative": "United Kingdom",
       "sort_efc": 66
     },
     {
       "code": "GEO",
+      "is_efc": true,
       "name_efc_administrative": "Georgia",
       "sort_efc": 67
     },
     {
       "code": "GER",
+      "is_efc": true,
       "name_efc_administrative": "Germany",
       "sort_efc": 68
     },
     {
       "code": "GHA",
+      "is_efc": false,
       "name_efc_administrative": "Ghana",
       "sort_efc": 69
     },
     {
       "code": "GRE",
+      "is_efc": true,
       "name_efc_administrative": "Greece",
       "sort_efc": 70
     },
     {
       "code": "GUM",
+      "is_efc": false,
       "name_efc_administrative": "The Gambia",
       "sort_efc": 71
     },
     {
       "code": "GUY",
+      "is_efc": false,
       "name_efc_administrative": "Guyana",
       "sort_efc": 72
     },
     {
       "code": "HAI",
+      "is_efc": false,
       "name_efc_administrative": "Haiti",
       "sort_efc": 73
     },
     {
       "code": "HKG",
+      "is_efc": false,
       "name_efc_administrative": "Hong Kong",
       "sort_efc": 74
     },
     {
       "code": "HON",
+      "is_efc": false,
       "name_efc_administrative": "Honduras",
       "sort_efc": 75
     },
     {
       "code": "HUN",
+      "is_efc": true,
       "name_efc_administrative": "Hungary",
       "sort_efc": 76
     },
     {
       "code": "INA",
+      "is_efc": false,
       "name_efc_administrative": "Indonesia",
       "sort_efc": 77
     },
     {
       "code": "IND",
+      "is_efc": false,
       "name_efc_administrative": "India",
       "sort_efc": 78
     },
     {
       "code": "IRL",
+      "is_efc": true,
       "name_efc_administrative": "Ireland",
       "sort_efc": 79
     },
     {
       "code": "IRN",
+      "is_efc": false,
       "name_efc_administrative": "Iran (Islamic Republic of)",
       "sort_efc": 80
     },
     {
       "code": "IRQ",
+      "is_efc": false,
       "name_efc_administrative": "Iraq",
       "sort_efc": 81
     },
     {
       "code": "ISL",
+      "is_efc": true,
       "name_efc_administrative": "Iceland",
       "sort_efc": 82
     },
     {
       "code": "ISR",
+      "is_efc": true,
       "name_efc_administrative": "Israel",
       "sort_efc": 83
     },
     {
       "code": "ITA",
+      "is_efc": true,
       "name_efc_administrative": "Italy",
       "sort_efc": 84
     },
     {
       "code": "JAM",
+      "is_efc": false,
       "name_efc_administrative": "Jamaica",
       "sort_efc": 85
     },
     {
       "code": "JAP",
+      "is_efc": false,
       "name_efc_administrative": "Japan",
       "sort_efc": 86
     },
     {
       "code": "JOR",
+      "is_efc": false,
       "name_efc_administrative": "Jordan",
       "sort_efc": 87
     },
     {
       "code": "KAZ",
+      "is_efc": false,
       "name_efc_administrative": "Kazakhstan",
       "sort_efc": 88
     },
     {
       "code": "KEN",
+      "is_efc": false,
       "name_efc_administrative": "Kenya",
       "sort_efc": 89
     },
     {
       "code": "KGZ",
+      "is_efc": false,
       "name_efc_administrative": "Kyrgyzstan",
       "sort_efc": 90
     },
     {
       "code": "KOR",
+      "is_efc": false,
       "name_efc_administrative": "Korea, Republic of (South Korea)",
       "sort_efc": 91
     },
     {
       "code": "KSA",
+      "is_efc": false,
       "name_efc_administrative": "Saudi Arabia",
       "sort_efc": 92
     },
     {
       "code": "KUW",
+      "is_efc": false,
       "name_efc_administrative": "Kuwait",
       "sort_efc": 93
     },
     {
       "code": "LAT",
+      "is_efc": true,
       "name_efc_administrative": "Latvia",
       "sort_efc": 94
     },
     {
       "code": "LBY",
+      "is_efc": false,
       "name_efc_administrative": "Libya",
       "sort_efc": 95
     },
     {
       "code": "LIE",
+      "is_efc": false,
       "name_efc_administrative": "Liechtenstein",
       "sort_efc": 96
     },
     {
       "code": "LIT",
+      "is_efc": true,
       "name_efc_administrative": "Lithuania",
       "sort_efc": 97
     },
     {
       "code": "LUX",
+      "is_efc": true,
       "name_efc_administrative": "Luxembourg",
       "sort_efc": 98
     },
     {
       "code": "MAS",
+      "is_efc": false,
       "name_efc_administrative": "Malaysia",
       "sort_efc": 99
     },
     {
       "code": "MDA",
+      "is_efc": true,
       "name_efc_administrative": "Moldova",
       "sort_efc": 100
     },
     {
       "code": "MDG",
+      "is_efc": false,
       "name_efc_administrative": "Madagascar",
       "sort_efc": 101
     },
     {
       "code": "MDV",
+      "is_efc": false,
       "name_efc_administrative": "Maldives",
       "sort_efc": 102
     },
     {
       "code": "MEX",
+      "is_efc": false,
       "name_efc_administrative": "Mexico",
       "sort_efc": 103
     },
     {
       "code": "MGL",
+      "is_efc": false,
       "name_efc_administrative": "Mongolia",
       "sort_efc": 104
     },
     {
       "code": "MKD",
+      "is_efc": true,
       "name_efc_administrative": "North Macedonia",
       "sort_efc": 105
     },
     {
       "code": "MLI",
+      "is_efc": false,
       "name_efc_administrative": "Mali",
       "sort_efc": 106
     },
     {
       "code": "MLT",
+      "is_efc": true,
       "name_efc_administrative": "Malta",
       "sort_efc": 107
     },
     {
       "code": "MNE",
+      "is_efc": false,
       "name_efc_administrative": "Montenegro",
       "sort_efc": 108
     },
     {
       "code": "MON",
+      "is_efc": true,
       "name_efc_administrative": "Monaco",
       "sort_efc": 109
     },
     {
       "code": "MOZ",
+      "is_efc": false,
       "name_efc_administrative": "Mozambique",
       "sort_efc": 110
     },
     {
       "code": "NCA",
+      "is_efc": false,
       "name_efc_administrative": "Nicaragua",
       "sort_efc": 111
     },
     {
       "code": "NED",
+      "is_efc": true,
       "name_efc_administrative": "Netherlands",
       "sort_efc": 112
     },
     {
       "code": "NGR",
+      "is_efc": false,
       "name_efc_administrative": "Nigeria",
       "sort_efc": 113
     },
     {
       "code": "NIG",
+      "is_efc": false,
       "name_efc_administrative": "Niger",
       "sort_efc": 114
     },
     {
       "code": "NOR",
+      "is_efc": true,
       "name_efc_administrative": "Norway",
       "sort_efc": 115
     },
     {
       "code": "NPL",
+      "is_efc": false,
       "name_efc_administrative": "Nepal",
       "sort_efc": 116
     },
     {
       "code": "NZL",
+      "is_efc": false,
       "name_efc_administrative": "New Zealand",
       "sort_efc": 117
     },
     {
       "code": "OMA",
+      "is_efc": false,
       "name_efc_administrative": "Oman",
       "sort_efc": 118
     },
     {
       "code": "PAK",
+      "is_efc": false,
       "name_efc_administrative": "Pakistan",
       "sort_efc": 119
     },
     {
       "code": "PAN",
+      "is_efc": false,
       "name_efc_administrative": "Panama",
       "sort_efc": 120
     },
     {
       "code": "PAR",
+      "is_efc": false,
       "name_efc_administrative": "Paraguay",
       "sort_efc": 121
     },
     {
       "code": "PCN",
+      "is_efc": false,
       "name_efc_administrative": "Pitcairn Island",
       "sort_efc": 122
     },
     {
       "code": "PER",
+      "is_efc": false,
       "name_efc_administrative": "Peru",
       "sort_efc": 123
     },
     {
       "code": "PHI",
+      "is_efc": false,
       "name_efc_administrative": "Philippines",
       "sort_efc": 124
     },
     {
       "code": "POL",
+      "is_efc": true,
       "name_efc_administrative": "Poland",
       "sort_efc": 125
     },
     {
       "code": "POR",
+      "is_efc": true,
       "name_efc_administrative": "Portugal",
       "sort_efc": 126
     },
     {
       "code": "PUR",
+      "is_efc": false,
       "name_efc_administrative": "Puerto Rico",
       "sort_efc": 127
     },
     {
       "code": "QAT",
+      "is_efc": false,
       "name_efc_administrative": "Qatar",
       "sort_efc": 128
     },
     {
       "code": "ROU",
+      "is_efc": true,
       "name_efc_administrative": "Romania",
       "sort_efc": 129
     },
     {
       "code": "RSA",
+      "is_efc": false,
       "name_efc_administrative": "South Africa",
       "sort_efc": 130
     },
     {
       "code": "RUS",
+      "is_efc": true,
       "name_efc_administrative": "Russian Federation",
       "sort_efc": 131
     },
     {
       "code": "RWA",
+      "is_efc": false,
       "name_efc_administrative": "Rwanda",
       "sort_efc": 132
     },
     {
       "code": "SEN",
+      "is_efc": false,
       "name_efc_administrative": "Senegal",
       "sort_efc": 133
     },
     {
       "code": "SEY",
+      "is_efc": false,
       "name_efc_administrative": "Seychelles",
       "sort_efc": 134
     },
     {
       "code": "SIN",
+      "is_efc": false,
       "name_efc_administrative": "Singapore",
       "sort_efc": 135
     },
     {
       "code": "SLO",
+      "is_efc": true,
       "name_efc_administrative": "Slovenia",
       "sort_efc": 136
     },
     {
       "code": "SMR",
+      "is_efc": true,
       "name_efc_administrative": "San Marino",
       "sort_efc": 137
     },
     {
       "code": "SOM",
+      "is_efc": false,
       "name_efc_administrative": "Somalia",
       "sort_efc": 138
     },
     {
       "code": "SRB",
+      "is_efc": true,
       "name_efc_administrative": "Serbia",
       "sort_efc": 139
     },
     {
       "code": "SRI",
+      "is_efc": false,
       "name_efc_administrative": "Sri Lanka",
       "sort_efc": 140
     },
     {
       "code": "SUI",
+      "is_efc": true,
       "name_efc_administrative": "Switzerland",
       "sort_efc": 141
     },
     {
       "code": "SVK",
+      "is_efc": true,
       "name_efc_administrative": "Slovakia",
       "sort_efc": 142
     },
     {
       "code": "SWE",
+      "is_efc": true,
       "name_efc_administrative": "Sweden",
       "sort_efc": 143
     },
     {
       "code": "THA",
+      "is_efc": false,
       "name_efc_administrative": "Thailand",
       "sort_efc": 144
     },
     {
       "code": "TKM",
+      "is_efc": false,
       "name_efc_administrative": "Turkmenistan",
       "sort_efc": 145
     },
     {
       "code": "TUN",
+      "is_efc": false,
       "name_efc_administrative": "Tunisia",
       "sort_efc": 146
     },
     {
       "code": "TUR",
+      "is_efc": true,
       "name_efc_administrative": "Turkey",
       "sort_efc": 147
     },
     {
       "code": "UAE",
+      "is_efc": false,
       "name_efc_administrative": "United Arab Emirates",
       "sort_efc": 148
     },
     {
       "code": "UKR",
+      "is_efc": true,
       "name_efc_administrative": "Ukraine",
       "sort_efc": 149
     },
     {
       "code": "URU",
+      "is_efc": false,
       "name_efc_administrative": "Uruguay",
       "sort_efc": 150
     },
     {
       "code": "USA",
+      "is_efc": false,
       "name_efc_administrative": "United States",
       "sort_efc": 151
     },
     {
       "code": "UZB",
+      "is_efc": false,
       "name_efc_administrative": "Uzbekistan",
       "sort_efc": 152
     },
     {
       "code": "VEN",
+      "is_efc": false,
       "name_efc_administrative": "Venezuela",
       "sort_efc": 153
     },
     {
       "code": "VIE",
+      "is_efc": false,
       "name_efc_administrative": "Vietnam",
       "sort_efc": 154
     },
     {
       "code": "YEM",
+      "is_efc": false,
       "name_efc_administrative": "Yemen",
       "sort_efc": 155
     },
     {
       "code": "ZAM",
+      "is_efc": false,
       "name_efc_administrative": "Zambia",
       "sort_efc": 156
     },
     {
       "code": "ZIM",
+      "is_efc": false,
       "name_efc_administrative": "Zimbabwe",
       "sort_efc": 157
     }
