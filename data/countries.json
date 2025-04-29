@@ -1,0 +1,632 @@
+{
+  "countries": [
+    {
+      "code": "AFG",
+      "name_efc_administrative": "Afghanistan"
+    },
+    {
+      "code": "ALB",
+      "name_efc_administrative": "Albania"
+    },
+    {
+      "code": "ALG",
+      "name_efc_administrative": "Algeria"
+    },
+    {
+      "code": "ASM",
+      "name_efc_administrative": "American Samoa"
+    },
+    {
+      "code": "AND",
+      "name_efc_administrative": "Andorra"
+    },
+    {
+      "code": "AGO",
+      "name_efc_administrative": "Angola"
+    },
+    {
+      "code": "AIA",
+      "name_efc_administrative": "Anguilla"
+    },
+    {
+      "code": "ATA",
+      "name_efc_administrative": "Antarctica"
+    },
+    {
+      "code": "ATG",
+      "name_efc_administrative": "Antigua and Barbuda"
+    },
+    {
+      "code": "ARG",
+      "name_efc_administrative": "Argentina"
+    },
+    {
+      "code": "ARM",
+      "name_efc_administrative": "Armenia"
+    },
+    {
+      "code": "ARU",
+      "name_efc_administrative": "Aruba"
+    },
+    {
+      "code": "AUS",
+      "name_efc_administrative": "Australia"
+    },
+    {
+      "code": "AUT",
+      "name_efc_administrative": "Austria"
+    },
+    {
+      "code": "AZE",
+      "name_efc_administrative": "Azerbaijan"
+    },
+    {
+      "code": "BAH",
+      "name_efc_administrative": "Bahamas"
+    },
+    {
+      "code": "BRN",
+      "name_efc_administrative": "Bahrain"
+    },
+    {
+      "code": "BAN",
+      "name_efc_administrative": "Bangladesh"
+    },
+    {
+      "code": "BAR",
+      "name_efc_administrative": "Barbados"
+    },
+    {
+      "code": "BLR",
+      "name_efc_administrative": "Belarus"
+    },
+    {
+      "code": "BEL",
+      "name_efc_administrative": "Belgium"
+    },
+    {
+      "code": "BIZ",
+      "name_efc_administrative": "Belize"
+    },
+    {
+      "code": "BEN",
+      "name_efc_administrative": "Benin"
+    },
+    {
+      "code": "BER",
+      "name_efc_administrative": "Bermuda"
+    },
+    {
+      "code": "BHU",
+      "name_efc_administrative": "Bhutan"
+    },
+    {
+      "code": "BOL",
+      "name_efc_administrative": "Bolivia"
+    },
+    {
+      "code": "BIH",
+      "name_efc_administrative": "Bosnia and Herzegovina"
+    },
+    {
+      "code": "BOT",
+      "name_efc_administrative": "Botswana"
+    },
+    {
+      "code": "BRA",
+      "name_efc_administrative": "Brazil"
+    },
+    {
+      "code": "BRU",
+      "name_efc_administrative": "Brunei Darussalam"
+    },
+    {
+      "code": "BUL",
+      "name_efc_administrative": "Bulgaria"
+    },
+    {
+      "code": "BUR",
+      "name_efc_administrative": "Burkina Faso"
+    },
+    {
+      "code": "BDI",
+      "name_efc_administrative": "Burundi"
+    },
+    {
+      "code": "CAM",
+      "name_efc_administrative": "Cambodia"
+    },
+    {
+      "code": "CMR",
+      "name_efc_administrative": "Cameroon"
+    },
+    {
+      "code": "CAN",
+      "name_efc_administrative": "Canada"
+    },
+    {
+      "code": "CPV",
+      "name_efc_administrative": "Cape Verde"
+    },
+    {
+      "code": "CAY",
+      "name_efc_administrative": "Cayman Islands"
+    },
+    {
+      "code": "CAF",
+      "name_efc_administrative": "Central African Republic"
+    },
+    {
+      "code": "CHA",
+      "name_efc_administrative": "Chad"
+    },
+    {
+      "code": "CHI",
+      "name_efc_administrative": "Chile"
+    },
+    {
+      "code": "CHN",
+      "name_efc_administrative": "China"
+    },
+    {
+      "code": "COL",
+      "name_efc_administrative": "Colombia"
+    },
+    {
+      "code": "COM",
+      "name_efc_administrative": "Comoros"
+    },
+    {
+      "code": "CGO",
+      "name_efc_administrative": "Congo, Republic of (Brazzaville)"
+    },
+    {
+      "code": "CRC",
+      "name_efc_administrative": "Costa Rica"
+    },
+    {
+      "code": "CRO",
+      "name_efc_administrative": "Croatia"
+    },
+    {
+      "code": "CUB",
+      "name_efc_administrative": "Cuba"
+    },
+    {
+      "code": "CYP",
+      "name_efc_administrative": "Cyprus"
+    },
+    {
+      "code": "CZE",
+      "name_efc_administrative": "Czech Republic"
+    },
+    {
+      "code": "DEN",
+      "name_efc_administrative": "Denmark"
+    },
+    {
+      "code": "DJI",
+      "name_efc_administrative": "Djibouti"
+    },
+    {
+      "code": "DMA",
+      "name_efc_administrative": "Dominica"
+    },
+    {
+      "code": "DOM",
+      "name_efc_administrative": "Dominican Republic"
+    },
+    {
+      "code": "ECU",
+      "name_efc_administrative": "Ecuador"
+    },
+    {
+      "code": "EGY",
+      "name_efc_administrative": "Egypt"
+    },
+    {
+      "code": "ESA",
+      "name_efc_administrative": "El Salvador"
+    },
+    {
+      "code": "ERI",
+      "name_efc_administrative": "Eritrea"
+    },
+    {
+      "code": "EST",
+      "name_efc_administrative": "Estonia"
+    },
+    {
+      "code": "ETH",
+      "name_efc_administrative": "Ethiopia"
+    },
+    {
+      "code": "FIJ",
+      "name_efc_administrative": "Fiji"
+    },
+    {
+      "code": "FIN",
+      "name_efc_administrative": "Finland"
+    },
+    {
+      "code": "FRA",
+      "name_efc_administrative": "France"
+    },
+    {
+      "code": "GAB",
+      "name_efc_administrative": "Gabon"
+    },
+    {
+      "code": "GUM",
+      "name_efc_administrative": "The Gambia"
+    },
+    {
+      "code": "GEO",
+      "name_efc_administrative": "Georgia"
+    },
+    {
+      "code": "GER",
+      "name_efc_administrative": "Germany"
+    },
+    {
+      "code": "GHA",
+      "name_efc_administrative": "Ghana"
+    },
+    {
+      "code": "GRE",
+      "name_efc_administrative": "Greece"
+    },
+    {
+      "code": "GUY",
+      "name_efc_administrative": "Guyana"
+    },
+    {
+      "code": "HAI",
+      "name_efc_administrative": "Haiti"
+    },
+    {
+      "code": "HON",
+      "name_efc_administrative": "Honduras"
+    },
+    {
+      "code": "HKG",
+      "name_efc_administrative": "Hong Kong"
+    },
+    {
+      "code": "HUN",
+      "name_efc_administrative": "Hungary"
+    },
+    {
+      "code": "ISL",
+      "name_efc_administrative": "Iceland"
+    },
+    {
+      "code": "IND",
+      "name_efc_administrative": "India"
+    },
+    {
+      "code": "INA",
+      "name_efc_administrative": "Indonesia"
+    },
+    {
+      "code": "IRN",
+      "name_efc_administrative": "Iran (Islamic Republic of)"
+    },
+    {
+      "code": "IRQ",
+      "name_efc_administrative": "Iraq"
+    },
+    {
+      "code": "IRL",
+      "name_efc_administrative": "Ireland"
+    },
+    {
+      "code": "ISR",
+      "name_efc_administrative": "Israel"
+    },
+    {
+      "code": "ITA",
+      "name_efc_administrative": "Italy"
+    },
+    {
+      "code": "JAM",
+      "name_efc_administrative": "Jamaica"
+    },
+    {
+      "code": "JAP",
+      "name_efc_administrative": "Japan"
+    },
+    {
+      "code": "JOR",
+      "name_efc_administrative": "Jordan"
+    },
+    {
+      "code": "KAZ",
+      "name_efc_administrative": "Kazakhstan"
+    },
+    {
+      "code": "KEN",
+      "name_efc_administrative": "Kenya"
+    },
+    {
+      "code": "KOR",
+      "name_efc_administrative": "Korea, Republic of (South Korea)"
+    },
+    {
+      "code": "KUW",
+      "name_efc_administrative": "Kuwait"
+    },
+    {
+      "code": "KGZ",
+      "name_efc_administrative": "Kyrgyzstan"
+    },
+    {
+      "code": "LAT",
+      "name_efc_administrative": "Latvia"
+    },
+    {
+      "code": "LBY",
+      "name_efc_administrative": "Libya"
+    },
+    {
+      "code": "LIE",
+      "name_efc_administrative": "Liechtenstein"
+    },
+    {
+      "code": "LIT",
+      "name_efc_administrative": "Lithuania"
+    },
+    {
+      "code": "LUX",
+      "name_efc_administrative": "Luxembourg"
+    },
+    {
+      "code": "MDG",
+      "name_efc_administrative": "Madagascar"
+    },
+    {
+      "code": "MAS",
+      "name_efc_administrative": "Malaysia"
+    },
+    {
+      "code": "MDV",
+      "name_efc_administrative": "Maldives"
+    },
+    {
+      "code": "MLI",
+      "name_efc_administrative": "Mali"
+    },
+    {
+      "code": "MLT",
+      "name_efc_administrative": "Malta"
+    },
+    {
+      "code": "MEX",
+      "name_efc_administrative": "Mexico"
+    },
+    {
+      "code": "MDA",
+      "name_efc_administrative": "Moldova"
+    },
+    {
+      "code": "MON",
+      "name_efc_administrative": "Monaco"
+    },
+    {
+      "code": "MGL",
+      "name_efc_administrative": "Mongolia"
+    },
+    {
+      "code": "MNE",
+      "name_efc_administrative": "Montenegro"
+    },
+    {
+      "code": "MOZ",
+      "name_efc_administrative": "Mozambique"
+    },
+    {
+      "code": "NPL",
+      "name_efc_administrative": "Nepal"
+    },
+    {
+      "code": "NED",
+      "name_efc_administrative": "Netherlands"
+    },
+    {
+      "code": "NZL",
+      "name_efc_administrative": "New Zealand"
+    },
+    {
+      "code": "NCA",
+      "name_efc_administrative": "Nicaragua"
+    },
+    {
+      "code": "NIG",
+      "name_efc_administrative": "Niger"
+    },
+    {
+      "code": "NGR",
+      "name_efc_administrative": "Nigeria"
+    },
+    {
+      "code": "MKD",
+      "name_efc_administrative": "North Macedonia"
+    },
+    {
+      "code": "NOR",
+      "name_efc_administrative": "Norway"
+    },
+    {
+      "code": "OMA",
+      "name_efc_administrative": "Oman"
+    },
+    {
+      "code": "PAK",
+      "name_efc_administrative": "Pakistan"
+    },
+    {
+      "code": "PAN",
+      "name_efc_administrative": "Panama"
+    },
+    {
+      "code": "PAR",
+      "name_efc_administrative": "Paraguay"
+    },
+    {
+      "code": "PER",
+      "name_efc_administrative": "Peru"
+    },
+    {
+      "code": "PHI",
+      "name_efc_administrative": "Philippines"
+    },
+    {
+      "code": "PCN",
+      "name_efc_administrative": "Pitcairn Island"
+    },
+    {
+      "code": "POL",
+      "name_efc_administrative": "Poland"
+    },
+    {
+      "code": "POR",
+      "name_efc_administrative": "Portugal"
+    },
+    {
+      "code": "PUR",
+      "name_efc_administrative": "Puerto Rico"
+    },
+    {
+      "code": "QAT",
+      "name_efc_administrative": "Qatar"
+    },
+    {
+      "code": "ROU",
+      "name_efc_administrative": "Romania"
+    },
+    {
+      "code": "RUS",
+      "name_efc_administrative": "Russian Federation"
+    },
+    {
+      "code": "RWA",
+      "name_efc_administrative": "Rwanda"
+    },
+    {
+      "code": "SMR",
+      "name_efc_administrative": "San Marino"
+    },
+    {
+      "code": "KSA",
+      "name_efc_administrative": "Saudi Arabia"
+    },
+    {
+      "code": "SEN",
+      "name_efc_administrative": "Senegal"
+    },
+    {
+      "code": "SRB",
+      "name_efc_administrative": "Serbia"
+    },
+    {
+      "code": "SEY",
+      "name_efc_administrative": "Seychelles"
+    },
+    {
+      "code": "SIN",
+      "name_efc_administrative": "Singapore"
+    },
+    {
+      "code": "SVK",
+      "name_efc_administrative": "Slovakia"
+    },
+    {
+      "code": "SLO",
+      "name_efc_administrative": "Slovenia"
+    },
+    {
+      "code": "SOM",
+      "name_efc_administrative": "Somalia"
+    },
+    {
+      "code": "RSA",
+      "name_efc_administrative": "South Africa"
+    },
+    {
+      "code": "ESP",
+      "name_efc_administrative": "Spain"
+    },
+    {
+      "code": "SRI",
+      "name_efc_administrative": "Sri Lanka"
+    },
+    {
+      "code": "SWE",
+      "name_efc_administrative": "Sweden"
+    },
+    {
+      "code": "SUI",
+      "name_efc_administrative": "Switzerland"
+    },
+    {
+      "code": "THA",
+      "name_efc_administrative": "Thailand"
+    },
+    {
+      "code": "TUN",
+      "name_efc_administrative": "Tunisia"
+    },
+    {
+      "code": "TUR",
+      "name_efc_administrative": "Turkey"
+    },
+    {
+      "code": "TKM",
+      "name_efc_administrative": "Turkmenistan"
+    },
+    {
+      "code": "UKR",
+      "name_efc_administrative": "Ukraine"
+    },
+    {
+      "code": "UAE",
+      "name_efc_administrative": "United Arab Emirates"
+    },
+    {
+      "code": "GBR",
+      "name_efc_administrative": "United Kingdom"
+    },
+    {
+      "code": "USA",
+      "name_efc_administrative": "United States"
+    },
+    {
+      "code": "URU",
+      "name_efc_administrative": "Uruguay"
+    },
+    {
+      "code": "UZB",
+      "name_efc_administrative": "Uzbekistan"
+    },
+    {
+      "code": "VEN",
+      "name_efc_administrative": "Venezuela"
+    },
+    {
+      "code": "VIE",
+      "name_efc_administrative": "Vietnam"
+    },
+    {
+      "code": "YEM",
+      "name_efc_administrative": "Yemen"
+    },
+    {
+      "code": "ZAM",
+      "name_efc_administrative": "Zambia"
+    },
+    {
+      "code": "ZIM",
+      "name_efc_administrative": "Zimbabwe"
+    }
+  ]
+}
