@@ -4,942 +4,1099 @@
       "code": "AFG",
       "is_efc": false,
       "name_efc_administrative": "Afghanistan",
+      "name_efc_association": null,
       "sort_efc": 1
     },
     {
       "code": "AGO",
       "is_efc": false,
       "name_efc_administrative": "Angola",
+      "name_efc_association": null,
       "sort_efc": 2
     },
     {
       "code": "AIA",
       "is_efc": false,
       "name_efc_administrative": "Anguilla",
+      "name_efc_association": null,
       "sort_efc": 3
     },
     {
       "code": "ALB",
       "is_efc": false,
       "name_efc_administrative": "Albania",
+      "name_efc_association": null,
       "sort_efc": 4
     },
     {
       "code": "ALG",
       "is_efc": false,
       "name_efc_administrative": "Algeria",
+      "name_efc_association": null,
       "sort_efc": 5
     },
     {
       "code": "AND",
       "is_efc": false,
       "name_efc_administrative": "Andorra",
+      "name_efc_association": null,
       "sort_efc": 6
     },
     {
       "code": "ARG",
       "is_efc": false,
       "name_efc_administrative": "Argentina",
+      "name_efc_association": null,
       "sort_efc": 7
     },
     {
       "code": "ARM",
       "is_efc": true,
       "name_efc_administrative": "Armenia",
+      "name_efc_association": "Federation d'Escrime d'Armenie",
       "sort_efc": 8
     },
     {
       "code": "ARU",
       "is_efc": false,
       "name_efc_administrative": "Aruba",
+      "name_efc_association": null,
       "sort_efc": 9
     },
     {
       "code": "ASM",
       "is_efc": false,
       "name_efc_administrative": "American Samoa",
+      "name_efc_association": null,
       "sort_efc": 10
     },
     {
       "code": "ATA",
       "is_efc": false,
       "name_efc_administrative": "Antarctica",
+      "name_efc_association": null,
       "sort_efc": 11
     },
     {
       "code": "ATG",
       "is_efc": false,
       "name_efc_administrative": "Antigua and Barbuda",
+      "name_efc_association": null,
       "sort_efc": 12
     },
     {
       "code": "AUS",
       "is_efc": false,
       "name_efc_administrative": "Australia",
+      "name_efc_association": null,
       "sort_efc": 13
     },
     {
       "code": "AUT",
       "is_efc": true,
       "name_efc_administrative": "Austria",
+      "name_efc_association": "Oesterreichischer Fechtverband",
       "sort_efc": 14
     },
     {
       "code": "AZE",
       "is_efc": true,
       "name_efc_administrative": "Azerbaijan",
+      "name_efc_association": "Federation d'Escrime d'Azerbaidjan",
       "sort_efc": 15
     },
     {
       "code": "BAH",
       "is_efc": false,
       "name_efc_administrative": "Bahamas",
+      "name_efc_association": null,
       "sort_efc": 16
     },
     {
       "code": "BAN",
       "is_efc": false,
       "name_efc_administrative": "Bangladesh",
+      "name_efc_association": null,
       "sort_efc": 17
     },
     {
       "code": "BAR",
       "is_efc": false,
       "name_efc_administrative": "Barbados",
+      "name_efc_association": null,
       "sort_efc": 18
     },
     {
       "code": "BDI",
       "is_efc": false,
       "name_efc_administrative": "Burundi",
+      "name_efc_association": null,
       "sort_efc": 19
     },
     {
       "code": "BEL",
       "is_efc": true,
       "name_efc_administrative": "Belgium",
+      "name_efc_association": "Federation Royale Belge d'Escrime",
       "sort_efc": 20
     },
     {
       "code": "BEN",
       "is_efc": false,
       "name_efc_administrative": "Benin",
+      "name_efc_association": null,
       "sort_efc": 21
     },
     {
       "code": "BER",
       "is_efc": false,
       "name_efc_administrative": "Bermuda",
+      "name_efc_association": null,
       "sort_efc": 22
     },
     {
       "code": "BHU",
       "is_efc": false,
       "name_efc_administrative": "Bhutan",
+      "name_efc_association": null,
       "sort_efc": 23
     },
     {
       "code": "BIH",
       "is_efc": false,
       "name_efc_administrative": "Bosnia and Herzegovina",
+      "name_efc_association": null,
       "sort_efc": 24
     },
     {
       "code": "BIZ",
       "is_efc": false,
       "name_efc_administrative": "Belize",
+      "name_efc_association": null,
       "sort_efc": 25
     },
     {
       "code": "BLR",
       "is_efc": true,
       "name_efc_administrative": "Belarus",
+      "name_efc_association": "Belarusian Fencing Federation",
       "sort_efc": 26
     },
     {
       "code": "BOL",
       "is_efc": false,
       "name_efc_administrative": "Bolivia",
+      "name_efc_association": null,
       "sort_efc": 27
     },
     {
       "code": "BOT",
       "is_efc": false,
       "name_efc_administrative": "Botswana",
+      "name_efc_association": null,
       "sort_efc": 28
     },
     {
       "code": "BRA",
       "is_efc": false,
       "name_efc_administrative": "Brazil",
+      "name_efc_association": null,
       "sort_efc": 29
     },
     {
       "code": "BRN",
       "is_efc": false,
       "name_efc_administrative": "Bahrain",
+      "name_efc_association": null,
       "sort_efc": 30
     },
     {
       "code": "BRU",
       "is_efc": false,
       "name_efc_administrative": "Brunei Darussalam",
+      "name_efc_association": null,
       "sort_efc": 31
     },
     {
       "code": "BUL",
       "is_efc": true,
       "name_efc_administrative": "Bulgaria",
+      "name_efc_association": "Bulgarian Fencing Federation",
       "sort_efc": 32
     },
     {
       "code": "BUR",
       "is_efc": false,
       "name_efc_administrative": "Burkina Faso",
+      "name_efc_association": null,
       "sort_efc": 33
     },
     {
       "code": "CAF",
       "is_efc": false,
       "name_efc_administrative": "Central African Republic",
+      "name_efc_association": null,
       "sort_efc": 34
     },
     {
       "code": "CAM",
       "is_efc": false,
       "name_efc_administrative": "Cambodia",
+      "name_efc_association": null,
       "sort_efc": 35
     },
     {
       "code": "CAN",
       "is_efc": false,
       "name_efc_administrative": "Canada",
+      "name_efc_association": null,
       "sort_efc": 36
     },
     {
       "code": "CAY",
       "is_efc": false,
       "name_efc_administrative": "Cayman Islands",
+      "name_efc_association": null,
       "sort_efc": 37
     },
     {
       "code": "CGO",
       "is_efc": false,
       "name_efc_administrative": "Congo, Republic of (Brazzaville)",
+      "name_efc_association": null,
       "sort_efc": 38
     },
     {
       "code": "CHA",
       "is_efc": false,
       "name_efc_administrative": "Chad",
+      "name_efc_association": null,
       "sort_efc": 39
     },
     {
       "code": "CHI",
       "is_efc": false,
       "name_efc_administrative": "Chile",
+      "name_efc_association": null,
       "sort_efc": 40
     },
     {
       "code": "CHN",
       "is_efc": false,
       "name_efc_administrative": "China",
+      "name_efc_association": null,
       "sort_efc": 41
     },
     {
       "code": "CMR",
       "is_efc": false,
       "name_efc_administrative": "Cameroon",
+      "name_efc_association": null,
       "sort_efc": 42
     },
     {
       "code": "COL",
       "is_efc": false,
       "name_efc_administrative": "Colombia",
+      "name_efc_association": null,
       "sort_efc": 43
     },
     {
       "code": "COM",
       "is_efc": false,
       "name_efc_administrative": "Comoros",
+      "name_efc_association": null,
       "sort_efc": 44
     },
     {
       "code": "CPV",
       "is_efc": false,
       "name_efc_administrative": "Cape Verde",
+      "name_efc_association": null,
       "sort_efc": 45
     },
     {
       "code": "CRC",
       "is_efc": false,
       "name_efc_administrative": "Costa Rica",
+      "name_efc_association": null,
       "sort_efc": 46
     },
     {
       "code": "CRO",
       "is_efc": true,
       "name_efc_administrative": "Croatia",
+      "name_efc_association": "Croatian Fencing Federation",
       "sort_efc": 47
     },
     {
       "code": "CUB",
       "is_efc": false,
       "name_efc_administrative": "Cuba",
+      "name_efc_association": null,
       "sort_efc": 48
     },
     {
       "code": "CYP",
       "is_efc": true,
       "name_efc_administrative": "Cyprus",
+      "name_efc_association": "Cyprus Fencing Federation",
       "sort_efc": 49
     },
     {
       "code": "CZE",
       "is_efc": true,
       "name_efc_administrative": "Czech Republic",
+      "name_efc_association": "???",
       "sort_efc": 50
     },
     {
       "code": "DEN",
       "is_efc": true,
       "name_efc_administrative": "Denmark",
+      "name_efc_association": "Danish Fencing Federation",
       "sort_efc": 51
     },
     {
       "code": "DJI",
       "is_efc": false,
       "name_efc_administrative": "Djibouti",
+      "name_efc_association": null,
       "sort_efc": 52
     },
     {
       "code": "DMA",
       "is_efc": false,
       "name_efc_administrative": "Dominica",
+      "name_efc_association": null,
       "sort_efc": 53
     },
     {
       "code": "DOM",
       "is_efc": false,
       "name_efc_administrative": "Dominican Republic",
+      "name_efc_association": null,
       "sort_efc": 54
     },
     {
       "code": "ECU",
       "is_efc": false,
       "name_efc_administrative": "Ecuador",
+      "name_efc_association": null,
       "sort_efc": 55
     },
     {
       "code": "EGY",
       "is_efc": false,
       "name_efc_administrative": "Egypt",
+      "name_efc_association": null,
       "sort_efc": 56
     },
     {
       "code": "ERI",
       "is_efc": false,
       "name_efc_administrative": "Eritrea",
+      "name_efc_association": null,
       "sort_efc": 57
     },
     {
       "code": "ESA",
       "is_efc": false,
       "name_efc_administrative": "El Salvador",
+      "name_efc_association": null,
       "sort_efc": 58
     },
     {
       "code": "ESP",
       "is_efc": true,
       "name_efc_administrative": "Spain",
+      "name_efc_association": "Royal Spanish Fencing Federation",
       "sort_efc": 59
     },
     {
       "code": "EST",
       "is_efc": true,
       "name_efc_administrative": "Estonia",
+      "name_efc_association": "Estonian Fencing Association",
       "sort_efc": 60
     },
     {
       "code": "ETH",
       "is_efc": false,
       "name_efc_administrative": "Ethiopia",
+      "name_efc_association": null,
       "sort_efc": 61
     },
     {
       "code": "FIJ",
       "is_efc": false,
       "name_efc_administrative": "Fiji",
+      "name_efc_association": null,
       "sort_efc": 62
     },
     {
       "code": "FIN",
       "is_efc": true,
       "name_efc_administrative": "Finland",
+      "name_efc_association": "Finnish Fencing and Pentathlon Federation",
       "sort_efc": 63
     },
     {
       "code": "FRA",
       "is_efc": true,
       "name_efc_administrative": "France",
+      "name_efc_association": "Federation Francaise d'Escrime",
       "sort_efc": 64
     },
     {
       "code": "GAB",
       "is_efc": false,
       "name_efc_administrative": "Gabon",
+      "name_efc_association": null,
       "sort_efc": 65
     },
     {
       "code": "GBR",
       "is_efc": true,
       "name_efc_administrative": "United Kingdom",
+      "name_efc_association": "British Fencing Association",
       "sort_efc": 66
     },
     {
       "code": "GEO",
       "is_efc": true,
       "name_efc_administrative": "Georgia",
+      "name_efc_association": "Federation Georgienne d'Escrime",
       "sort_efc": 67
     },
     {
       "code": "GER",
       "is_efc": true,
       "name_efc_administrative": "Germany",
+      "name_efc_association": "German Fencing Federation",
       "sort_efc": 68
     },
     {
       "code": "GHA",
       "is_efc": false,
       "name_efc_administrative": "Ghana",
+      "name_efc_association": null,
       "sort_efc": 69
     },
     {
       "code": "GRE",
       "is_efc": true,
       "name_efc_administrative": "Greece",
+      "name_efc_association": "Federation Hellenique d'Escrime",
       "sort_efc": 70
     },
     {
       "code": "GUM",
       "is_efc": false,
       "name_efc_administrative": "The Gambia",
+      "name_efc_association": null,
       "sort_efc": 71
     },
     {
       "code": "GUY",
       "is_efc": false,
       "name_efc_administrative": "Guyana",
+      "name_efc_association": null,
       "sort_efc": 72
     },
     {
       "code": "HAI",
       "is_efc": false,
       "name_efc_administrative": "Haiti",
+      "name_efc_association": null,
       "sort_efc": 73
     },
     {
       "code": "HKG",
       "is_efc": false,
       "name_efc_administrative": "Hong Kong",
+      "name_efc_association": null,
       "sort_efc": 74
     },
     {
       "code": "HON",
       "is_efc": false,
       "name_efc_administrative": "Honduras",
+      "name_efc_association": null,
       "sort_efc": 75
     },
     {
       "code": "HUN",
       "is_efc": true,
       "name_efc_administrative": "Hungary",
+      "name_efc_association": "Hungarian Fencing Federation",
       "sort_efc": 76
     },
     {
       "code": "INA",
       "is_efc": false,
       "name_efc_administrative": "Indonesia",
+      "name_efc_association": null,
       "sort_efc": 77
     },
     {
       "code": "IND",
       "is_efc": false,
       "name_efc_administrative": "India",
+      "name_efc_association": null,
       "sort_efc": 78
     },
     {
       "code": "IRL",
       "is_efc": true,
       "name_efc_administrative": "Ireland",
+      "name_efc_association": "Fencing Ireland",
       "sort_efc": 79
     },
     {
       "code": "IRN",
       "is_efc": false,
       "name_efc_administrative": "Iran (Islamic Republic of)",
+      "name_efc_association": null,
       "sort_efc": 80
     },
     {
       "code": "IRQ",
       "is_efc": false,
       "name_efc_administrative": "Iraq",
+      "name_efc_association": null,
       "sort_efc": 81
     },
     {
       "code": "ISL",
       "is_efc": true,
       "name_efc_administrative": "Iceland",
+      "name_efc_association": "Icelandic Fencing Federation",
       "sort_efc": 82
     },
     {
       "code": "ISR",
       "is_efc": true,
       "name_efc_administrative": "Israel",
+      "name_efc_association": "Israel Fencing Association",
       "sort_efc": 83
     },
     {
       "code": "ITA",
       "is_efc": true,
       "name_efc_administrative": "Italy",
+      "name_efc_association": "Italian Fencing Federation",
       "sort_efc": 84
     },
     {
       "code": "JAM",
       "is_efc": false,
       "name_efc_administrative": "Jamaica",
+      "name_efc_association": null,
       "sort_efc": 85
     },
     {
       "code": "JAP",
       "is_efc": false,
       "name_efc_administrative": "Japan",
+      "name_efc_association": null,
       "sort_efc": 86
     },
     {
       "code": "JOR",
       "is_efc": false,
       "name_efc_administrative": "Jordan",
+      "name_efc_association": null,
       "sort_efc": 87
     },
     {
       "code": "KAZ",
       "is_efc": false,
       "name_efc_administrative": "Kazakhstan",
+      "name_efc_association": null,
       "sort_efc": 88
     },
     {
       "code": "KEN",
       "is_efc": false,
       "name_efc_administrative": "Kenya",
+      "name_efc_association": null,
       "sort_efc": 89
     },
     {
       "code": "KGZ",
       "is_efc": false,
       "name_efc_administrative": "Kyrgyzstan",
+      "name_efc_association": null,
       "sort_efc": 90
     },
     {
       "code": "KOR",
       "is_efc": false,
       "name_efc_administrative": "Korea, Republic of (South Korea)",
+      "name_efc_association": null,
       "sort_efc": 91
     },
     {
       "code": "KSA",
       "is_efc": false,
       "name_efc_administrative": "Saudi Arabia",
+      "name_efc_association": null,
       "sort_efc": 92
     },
     {
       "code": "KUW",
       "is_efc": false,
       "name_efc_administrative": "Kuwait",
+      "name_efc_association": null,
       "sort_efc": 93
     },
     {
       "code": "LAT",
       "is_efc": true,
       "name_efc_administrative": "Latvia",
+      "name_efc_association": "Latvian Fencing Federation",
       "sort_efc": 94
     },
     {
       "code": "LBY",
       "is_efc": false,
       "name_efc_administrative": "Libya",
+      "name_efc_association": null,
       "sort_efc": 95
     },
     {
       "code": "LIE",
       "is_efc": false,
       "name_efc_administrative": "Liechtenstein",
+      "name_efc_association": null,
       "sort_efc": 96
     },
     {
       "code": "LIT",
       "is_efc": true,
       "name_efc_administrative": "Lithuania",
+      "name_efc_association": "Federation Lituanienne d'Escrime",
       "sort_efc": 97
     },
     {
       "code": "LUX",
       "is_efc": true,
       "name_efc_administrative": "Luxembourg",
+      "name_efc_association": "Fédération Luxembourgeoise d'Escrime",
       "sort_efc": 98
     },
     {
       "code": "MAS",
       "is_efc": false,
       "name_efc_administrative": "Malaysia",
+      "name_efc_association": null,
       "sort_efc": 99
     },
     {
       "code": "MDA",
       "is_efc": true,
       "name_efc_administrative": "Moldova",
+      "name_efc_association": "Fencing Federation of Moldova",
       "sort_efc": 100
     },
     {
       "code": "MDG",
       "is_efc": false,
       "name_efc_administrative": "Madagascar",
+      "name_efc_association": null,
       "sort_efc": 101
     },
     {
       "code": "MDV",
       "is_efc": false,
       "name_efc_administrative": "Maldives",
+      "name_efc_association": null,
       "sort_efc": 102
     },
     {
       "code": "MEX",
       "is_efc": false,
       "name_efc_administrative": "Mexico",
+      "name_efc_association": null,
       "sort_efc": 103
     },
     {
       "code": "MGL",
       "is_efc": false,
       "name_efc_administrative": "Mongolia",
+      "name_efc_association": null,
       "sort_efc": 104
     },
     {
       "code": "MKD",
       "is_efc": true,
       "name_efc_administrative": "North Macedonia",
+      "name_efc_association": "North Macedonia Fencing Federation",
       "sort_efc": 105
     },
     {
       "code": "MLI",
       "is_efc": false,
       "name_efc_administrative": "Mali",
+      "name_efc_association": null,
       "sort_efc": 106
     },
     {
       "code": "MLT",
       "is_efc": true,
       "name_efc_administrative": "Malta",
+      "name_efc_association": "Ass. Nationale d'Escrime de Malte",
       "sort_efc": 107
     },
     {
       "code": "MNE",
       "is_efc": false,
       "name_efc_administrative": "Montenegro",
+      "name_efc_association": null,
       "sort_efc": 108
     },
     {
       "code": "MON",
       "is_efc": true,
       "name_efc_administrative": "Monaco",
+      "name_efc_association": "Monaco Fencing Federation",
       "sort_efc": 109
     },
     {
       "code": "MOZ",
       "is_efc": false,
       "name_efc_administrative": "Mozambique",
+      "name_efc_association": null,
       "sort_efc": 110
     },
     {
       "code": "NCA",
       "is_efc": false,
       "name_efc_administrative": "Nicaragua",
+      "name_efc_association": null,
       "sort_efc": 111
     },
     {
       "code": "NED",
       "is_efc": true,
       "name_efc_administrative": "Netherlands",
+      "name_efc_association": "Koninklijke Nederlands Algemene Schermbond",
       "sort_efc": 112
     },
     {
       "code": "NGR",
       "is_efc": false,
       "name_efc_administrative": "Nigeria",
+      "name_efc_association": null,
       "sort_efc": 113
     },
     {
       "code": "NIG",
       "is_efc": false,
       "name_efc_administrative": "Niger",
+      "name_efc_association": null,
       "sort_efc": 114
     },
     {
       "code": "NOR",
       "is_efc": true,
       "name_efc_administrative": "Norway",
+      "name_efc_association": "Norwegian Fencing Federation",
       "sort_efc": 115
     },
     {
       "code": "NPL",
       "is_efc": false,
       "name_efc_administrative": "Nepal",
+      "name_efc_association": null,
       "sort_efc": 116
     },
     {
       "code": "NZL",
       "is_efc": false,
       "name_efc_administrative": "New Zealand",
+      "name_efc_association": null,
       "sort_efc": 117
     },
     {
       "code": "OMA",
       "is_efc": false,
       "name_efc_administrative": "Oman",
+      "name_efc_association": null,
       "sort_efc": 118
     },
     {
       "code": "PAK",
       "is_efc": false,
       "name_efc_administrative": "Pakistan",
+      "name_efc_association": null,
       "sort_efc": 119
     },
     {
       "code": "PAN",
       "is_efc": false,
       "name_efc_administrative": "Panama",
+      "name_efc_association": null,
       "sort_efc": 120
     },
     {
       "code": "PAR",
       "is_efc": false,
       "name_efc_administrative": "Paraguay",
+      "name_efc_association": null,
       "sort_efc": 121
     },
     {
       "code": "PCN",
       "is_efc": false,
       "name_efc_administrative": "Pitcairn Island",
+      "name_efc_association": null,
       "sort_efc": 122
     },
     {
       "code": "PER",
       "is_efc": false,
       "name_efc_administrative": "Peru",
+      "name_efc_association": null,
       "sort_efc": 123
     },
     {
       "code": "PHI",
       "is_efc": false,
       "name_efc_administrative": "Philippines",
+      "name_efc_association": null,
       "sort_efc": 124
     },
     {
       "code": "POL",
       "is_efc": true,
       "name_efc_administrative": "Poland",
+      "name_efc_association": "Polish Fencing Federation",
       "sort_efc": 125
     },
     {
       "code": "POR",
       "is_efc": true,
       "name_efc_administrative": "Portugal",
+      "name_efc_association": "Federacao Portuguesa de Esgrima",
       "sort_efc": 126
     },
     {
       "code": "PUR",
       "is_efc": false,
       "name_efc_administrative": "Puerto Rico",
+      "name_efc_association": null,
       "sort_efc": 127
     },
     {
       "code": "QAT",
       "is_efc": false,
       "name_efc_administrative": "Qatar",
+      "name_efc_association": null,
       "sort_efc": 128
     },
     {
       "code": "ROU",
       "is_efc": true,
       "name_efc_administrative": "Romania",
+      "name_efc_association": "Romania",
       "sort_efc": 129
     },
     {
       "code": "RSA",
       "is_efc": false,
       "name_efc_administrative": "South Africa",
+      "name_efc_association": null,
       "sort_efc": 130
     },
     {
       "code": "RUS",
       "is_efc": true,
       "name_efc_administrative": "Russian Federation",
+      "name_efc_association": "Federation d'Escrime de Russie",
       "sort_efc": 131
     },
     {
       "code": "RWA",
       "is_efc": false,
       "name_efc_administrative": "Rwanda",
+      "name_efc_association": null,
       "sort_efc": 132
     },
     {
       "code": "SEN",
       "is_efc": false,
       "name_efc_administrative": "Senegal",
+      "name_efc_association": null,
       "sort_efc": 133
     },
     {
       "code": "SEY",
       "is_efc": false,
       "name_efc_administrative": "Seychelles",
+      "name_efc_association": null,
       "sort_efc": 134
     },
     {
       "code": "SIN",
       "is_efc": false,
       "name_efc_administrative": "Singapore",
+      "name_efc_association": null,
       "sort_efc": 135
     },
     {
       "code": "SLO",
       "is_efc": true,
       "name_efc_administrative": "Slovenia",
+      "name_efc_association": "Fencing federation of Slovenia",
       "sort_efc": 136
     },
     {
       "code": "SMR",
       "is_efc": true,
       "name_efc_administrative": "San Marino",
+      "name_efc_association": "San Marino Fencing Federation",
       "sort_efc": 137
     },
     {
       "code": "SOM",
       "is_efc": false,
       "name_efc_administrative": "Somalia",
+      "name_efc_association": null,
       "sort_efc": 138
     },
     {
       "code": "SRB",
       "is_efc": true,
       "name_efc_administrative": "Serbia",
+      "name_efc_association": "Fencing Federation of Serbia",
       "sort_efc": 139
     },
     {
       "code": "SRI",
       "is_efc": false,
       "name_efc_administrative": "Sri Lanka",
+      "name_efc_association": null,
       "sort_efc": 140
     },
     {
       "code": "SUI",
       "is_efc": true,
       "name_efc_administrative": "Switzerland",
+      "name_efc_association": "SWISS FENCING",
       "sort_efc": 141
     },
     {
       "code": "SVK",
       "is_efc": true,
       "name_efc_administrative": "Slovakia",
+      "name_efc_association": "Slovak Fencing Federation",
       "sort_efc": 142
     },
     {
       "code": "SWE",
       "is_efc": true,
       "name_efc_administrative": "Sweden",
+      "name_efc_association": "Swedish Fencing Federation",
       "sort_efc": 143
     },
     {
       "code": "THA",
       "is_efc": false,
       "name_efc_administrative": "Thailand",
+      "name_efc_association": null,
       "sort_efc": 144
     },
     {
       "code": "TKM",
       "is_efc": false,
       "name_efc_administrative": "Turkmenistan",
+      "name_efc_association": null,
       "sort_efc": 145
     },
     {
       "code": "TUN",
       "is_efc": false,
       "name_efc_administrative": "Tunisia",
+      "name_efc_association": null,
       "sort_efc": 146
     },
     {
       "code": "TUR",
       "is_efc": true,
       "name_efc_administrative": "Turkey",
+      "name_efc_association": "Türkiye Eskrim Federasyonu",
       "sort_efc": 147
     },
     {
       "code": "UAE",
       "is_efc": false,
       "name_efc_administrative": "United Arab Emirates",
+      "name_efc_association": null,
       "sort_efc": 148
     },
     {
       "code": "UKR",
       "is_efc": true,
       "name_efc_administrative": "Ukraine",
+      "name_efc_association": "Federation d'Escrime d'Ukraine",
       "sort_efc": 149
     },
     {
       "code": "URU",
       "is_efc": false,
       "name_efc_administrative": "Uruguay",
+      "name_efc_association": null,
       "sort_efc": 150
     },
     {
       "code": "USA",
       "is_efc": false,
       "name_efc_administrative": "United States",
+      "name_efc_association": null,
       "sort_efc": 151
     },
     {
       "code": "UZB",
       "is_efc": false,
       "name_efc_administrative": "Uzbekistan",
+      "name_efc_association": null,
       "sort_efc": 152
     },
     {
       "code": "VEN",
       "is_efc": false,
       "name_efc_administrative": "Venezuela",
+      "name_efc_association": null,
       "sort_efc": 153
     },
     {
       "code": "VIE",
       "is_efc": false,
       "name_efc_administrative": "Vietnam",
+      "name_efc_association": null,
       "sort_efc": 154
     },
     {
       "code": "YEM",
       "is_efc": false,
       "name_efc_administrative": "Yemen",
+      "name_efc_association": null,
       "sort_efc": 155
     },
     {
       "code": "ZAM",
       "is_efc": false,
       "name_efc_administrative": "Zambia",
+      "name_efc_association": null,
       "sort_efc": 156
     },
     {
       "code": "ZIM",
       "is_efc": false,
       "name_efc_administrative": "Zimbabwe",
+      "name_efc_association": null,
       "sort_efc": 157
     }
   ]
